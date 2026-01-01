@@ -1,0 +1,25 @@
+{
+  "name": "MIMI-TEST",
+  "symbol": "MIMI",
+  "description": "MIMI IS HERE",
+  "image": "https://raw.githubusercontent.com/miaodotarmy/mimi-test-17/gh-pages/public/token-image.jpg",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/miaodotarmy/mimi-test-17/gh-pages/public/token-image.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://miaodotarmy.github.io/mimi-test-17/"
+  },
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://miaodotarmy.github.io/mimi-test-17/"
+    }
+  ],
+  "external_url": "https://miaodotarmy.github.io/mimi-test-17/"
+}
